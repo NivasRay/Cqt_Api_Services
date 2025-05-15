@@ -15,6 +15,22 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+  http: ^1.0.0
+  image_picker: ^1.1.2
+  path: ^1.0.0
+  shared_preferences: ^2.0.15
+  geolocator:
+  location:
+  latlong2:
+  firebase_core: ^3.3.0
+  firebase_messaging: ^15.0.4
+  file_picker:
+  flutter_image_compress:
+  path_provider:
+  jwt_decode:
+  flutter_pdfview:
+  share_plus:
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
